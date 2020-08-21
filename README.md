@@ -1,6 +1,7 @@
 # Predicting-Income-class-using-Machine-Learning
 Predicting Income (<=50 or >50) using Machine Learning on Adult Data:
-===========================================================================  
+----------------------------------------------------------------------------
+
 The adult data set consists of various features such as age, sex, education, occupation, relationship status, race etc. 
 Using these features, I have predicted if an individuals  income is either &lt;=50k or >50. 
 Utilizing libraries such as numpy, pandas, sklearn etc, I created various machine learning  models to predict income. 
