@@ -5,6 +5,7 @@ The adult data set consists of various features such as age, sex, education, occ
 Using these features, I have predicted if an individuals  income is either &lt;=50k or >50. 
 Utilizing libraries such as numpy, pandas, sklearn etc, I created various machine learning  models to predict income. 
 I also took care of imputing missing values, feature elimination, label encoding and standardization of data for the process.
+
 Metrics such as Precision, Recall,  F1-Score, Accuracy, True Positive Rate, False Positive Rate and ROC were used to evaluate the model. 
 
 Primarily I used Logistic Regression to predict the income, then I utilized various techniques to improve my model. 
